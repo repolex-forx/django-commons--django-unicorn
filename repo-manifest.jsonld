@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/django-commons/django-unicorn/commit/63043f40424455e189bd4d094beeeb1f3f2008bd",
       "git:hexsha": "63043f40424455e189bd4d094beeeb1f3f2008bd",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "0.67.0"
     },
     {
