@@ -1,0 +1,11 @@
+{
+  "org": "django-commons",
+  "repo": "django-unicorn",
+  "versions": [
+    {
+      "commit": "63043f40424455e189bd4d094beeeb1f3f2008bd",
+      "tag": "0.67.0",
+      "parsed_at": "2026-11-02T18:36:27.642674+00:00"
+    }
+  ]
+}
